@@ -1,8 +1,0 @@
-include README.md
-recursive-include go2_webrtc_driver *.py *.wasm
-recursive-include libs *.py
-recursive-include libs/aioice *.py
-global-exclude __pycache__
-global-exclude *.py[cod]
-global-exclude *.so
-global-exclude .git*
