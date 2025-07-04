@@ -1,9 +1,4 @@
 from setuptools import setup, find_packages
-import os
-import sys
-import shutil
-import subprocess
-import glob
 
 setup(
     name='go2-webrtc-connect',

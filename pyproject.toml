@@ -32,7 +32,7 @@ dependencies = [
 ]
 
 [tool.setuptools]
-packages = ["go2_webrtc_driver"]
+packages.find = {}
 
 [tool.setuptools.package-data]
 "*" = ["*.wasm"]
