@@ -27,7 +27,8 @@ dependencies = [
     "wasmtime",
     "flask-socketio",
     "lz4",
-    "pydub"
+    "pydub",
+    "aioice @ git+https://github.com/legion1581/aioice.git@go2"
 ]
 
 [tool.setuptools]
